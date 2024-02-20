@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+# 测试action
+
 mkdir -p /opt/butler/bin 
 cd /opt/butler/bin
 
